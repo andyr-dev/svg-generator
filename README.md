@@ -21,7 +21,7 @@
   
   ## Installation
 
-      npm i inqurier, npm i jest, npm i fs
+      npm i inqurier, npm i -D jest, npm i fs
 
   
   <br/>
