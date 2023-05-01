@@ -28,7 +28,7 @@
 
   ## Usage
 
-  To user SVG Generator, run index.js from the command line and answer the provided prompts to create an SVG file
+  To use SVG Generator, run index.js from the command line and answer the provided prompts to create an SVG file
 
   <br/>
   
