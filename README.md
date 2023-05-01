@@ -1,8 +1,8 @@
 # SVG Generator
   
-  ![None License](https://img.shields.io/badge/license-None-blueviolet)
-
-  ![](./Assets/example.png)
+  ![None License](https://img.shields.io/badge/license-None-blueviolet)   
+  
+  [Click here for a Walkthrough Video](https://drive.google.com/file/d/12ogRTWn-tzEV42UbEQFT7yM-6DWjk-As/view)
   
   ## Description
   
